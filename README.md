@@ -18,7 +18,7 @@ This project demonstrates how to use `Span<T>` to efficiently parse CSV files **
 ##  Project Structure
 
 ```
-SpanCsvParser/
+Span.PracticalSample/
  ├── Program.cs          # Benchmark runner
  ├── CsvParser.cs        # Span<T> and string-based parsing
  ├── BenchmarkCsv.cs     # BenchmarkDotNet tests
